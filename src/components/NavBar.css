@@ -1,0 +1,7 @@
+.nav-item :active{
+    color:rgb(128, 0, 6);
+   }
+   
+   Link :hover{
+       background-color:rgb(201, 219, 216);
+   }
